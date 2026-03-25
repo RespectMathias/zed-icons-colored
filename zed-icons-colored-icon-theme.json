@@ -20,7 +20,10 @@
       "iconPath": "./icons/astro_light.svg"
     },
     "audio": {
-      "iconPath": "./icons/audio.svg"
+      "iconPath": "./icons/audio_dark.svg"
+    },
+    "audio_light": {
+      "iconPath": "./icons/audio_light.svg"
     },
     "book": {
       "iconPath": "./icons/book_dark.svg"
@@ -113,13 +116,22 @@
       "iconPath": "./icons/eslint_light.svg"
     },
     "file": {
-      "iconPath": "./icons/file.svg"
+      "iconPath": "./icons/file_dark.svg"
+    },
+    "file_light": {
+      "iconPath": "./icons/file_light.svg"
     },
     "folder": {
-      "iconPath": "./icons/folder.svg"
+      "iconPath": "./icons/folder_dark.svg"
+    },
+    "folder_light": {
+      "iconPath": "./icons/folder_light.svg"
     },
     "folder_open": {
-      "iconPath": "./icons/folder_open.svg"
+      "iconPath": "./icons/folder_open_dark.svg"
+    },
+    "folder_open_light": {
+      "iconPath": "./icons/folder_open_light.svg"
     },
     "font": {
       "iconPath": "./icons/font_dark.svg"
@@ -182,10 +194,16 @@
       "iconPath": "./icons/html_light.svg"
     },
     "image": {
-      "iconPath": "./icons/image.svg"
+      "iconPath": "./icons/image_dark.svg"
+    },
+    "image_light": {
+      "iconPath": "./icons/image_light.svg"
     },
     "info": {
-      "iconPath": "./icons/info.svg"
+      "iconPath": "./icons/info_dark.svg"
+    },
+    "info_light": {
+      "iconPath": "./icons/info_light.svg"
     },
     "java": {
       "iconPath": "./icons/java_dark.svg"
@@ -206,7 +224,10 @@
       "iconPath": "./icons/julia_light.svg"
     },
     "jupyter": {
-      "iconPath": "./icons/jupyter.svg"
+      "iconPath": "./icons/jupyter_dark.svg"
+    },
+    "jupyter_light": {
+      "iconPath": "./icons/jupyter_light.svg"
     },
     "kotlin": {
       "iconPath": "./icons/kotlin_dark.svg"
@@ -377,7 +398,10 @@
       "iconPath": "./icons/v_light.svg"
     },
     "video": {
-      "iconPath": "./icons/video.svg"
+      "iconPath": "./icons/video_dark.svg"
+    },
+    "video_light": {
+      "iconPath": "./icons/video_light.svg"
     },
     "vue": {
       "iconPath": "./icons/vue_dark.svg"
