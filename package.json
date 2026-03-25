@@ -17,7 +17,7 @@
     "svg",
     "files"
   ],
-  "icon": "media/extension-icon.png",
+  "icon": "images/extension-icon.webp",
   "bugs": {
     "url": "https://github.com/RespectMathias/zed-icons-colored/issues"
   },

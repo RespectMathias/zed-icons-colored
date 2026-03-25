@@ -2,6 +2,8 @@
 
 This extension packages the colored Zed file icons as a Visual Studio Code file icon theme.
 
+![Preview](https://raw.githubusercontent.com/RespectMathias/zed-icons-colored/refs/heads/main/images/comparison.webp)
+
 ## Included
 
 - broad file extension coverage tuned for VS Code
