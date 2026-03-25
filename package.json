@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/RespectMathias/zed-icons-colored/issues"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/RespectMathias/zed-icons-colored.git"
@@ -37,5 +38,8 @@
         "path": "./zed-icons-colored-icon-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
