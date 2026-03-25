@@ -1,0 +1,41 @@
+{
+  "name": "zed-icons-colored",
+  "displayName": "Zed Icons Colored",
+  "description": "Colored Zed icon set for VS Code.",
+  "version": "0.1.0",
+  "publisher": "RespectMathias",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "icon-theme",
+    "zed",
+    "svg",
+    "files"
+  ],
+  "icon": "media/extension-icon.png",
+  "bugs": {
+    "url": "https://github.com/RespectMathias/zed-icons-colored/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RespectMathias/zed-icons-colored.git"
+  },
+  "galleryBanner": {
+    "color": "#141b2b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "zed-icons-colored",
+        "label": "Zed Icons Colored",
+        "path": "./zed-icons-colored-icon-theme.json"
+      }
+    ]
+  }
+}

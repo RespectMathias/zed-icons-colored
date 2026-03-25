@@ -1,0 +1,975 @@
+{
+  "$schema": "vscode://schemas/icon-theme",
+  "iconDefinitions": {
+    "actionscript": {
+      "iconPath": "./icons/actionscript_dark.svg"
+    },
+    "actionscript_light": {
+      "iconPath": "./icons/actionscript_light.svg"
+    },
+    "archive": {
+      "iconPath": "./icons/archive_dark.svg"
+    },
+    "archive_light": {
+      "iconPath": "./icons/archive_light.svg"
+    },
+    "astro": {
+      "iconPath": "./icons/astro_dark.svg"
+    },
+    "astro_light": {
+      "iconPath": "./icons/astro_light.svg"
+    },
+    "audio": {
+      "iconPath": "./icons/audio.svg"
+    },
+    "book": {
+      "iconPath": "./icons/book_dark.svg"
+    },
+    "book_light": {
+      "iconPath": "./icons/book_light.svg"
+    },
+    "bun": {
+      "iconPath": "./icons/bun_dark.svg"
+    },
+    "bun_light": {
+      "iconPath": "./icons/bun_light.svg"
+    },
+    "c": {
+      "iconPath": "./icons/c_dark.svg"
+    },
+    "c_light": {
+      "iconPath": "./icons/c_light.svg"
+    },
+    "code": {
+      "iconPath": "./icons/code_dark.svg"
+    },
+    "code_light": {
+      "iconPath": "./icons/code_light.svg"
+    },
+    "coffeescript": {
+      "iconPath": "./icons/coffeescript_dark.svg"
+    },
+    "coffeescript_light": {
+      "iconPath": "./icons/coffeescript_light.svg"
+    },
+    "cpp": {
+      "iconPath": "./icons/cpp_dark.svg"
+    },
+    "cpp_light": {
+      "iconPath": "./icons/cpp_light.svg"
+    },
+    "css": {
+      "iconPath": "./icons/css_dark.svg"
+    },
+    "css_light": {
+      "iconPath": "./icons/css_light.svg"
+    },
+    "dart": {
+      "iconPath": "./icons/dart_dark.svg"
+    },
+    "dart_light": {
+      "iconPath": "./icons/dart_light.svg"
+    },
+    "database": {
+      "iconPath": "./icons/database_dark.svg"
+    },
+    "database_light": {
+      "iconPath": "./icons/database_light.svg"
+    },
+    "diff": {
+      "iconPath": "./icons/diff_dark.svg"
+    },
+    "diff_light": {
+      "iconPath": "./icons/diff_light.svg"
+    },
+    "docker": {
+      "iconPath": "./icons/docker_dark.svg"
+    },
+    "docker_light": {
+      "iconPath": "./icons/docker_light.svg"
+    },
+    "elixir": {
+      "iconPath": "./icons/elixir_dark.svg"
+    },
+    "elixir_light": {
+      "iconPath": "./icons/elixir_light.svg"
+    },
+    "elm": {
+      "iconPath": "./icons/elm_dark.svg"
+    },
+    "elm_light": {
+      "iconPath": "./icons/elm_light.svg"
+    },
+    "erlang": {
+      "iconPath": "./icons/erlang_dark.svg"
+    },
+    "erlang_light": {
+      "iconPath": "./icons/erlang_light.svg"
+    },
+    "eslint": {
+      "iconPath": "./icons/eslint_dark.svg"
+    },
+    "eslint_light": {
+      "iconPath": "./icons/eslint_light.svg"
+    },
+    "file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "folder_open": {
+      "iconPath": "./icons/folder_open.svg"
+    },
+    "font": {
+      "iconPath": "./icons/font_dark.svg"
+    },
+    "font_light": {
+      "iconPath": "./icons/font_light.svg"
+    },
+    "fsharp": {
+      "iconPath": "./icons/fsharp_dark.svg"
+    },
+    "fsharp_light": {
+      "iconPath": "./icons/fsharp_light.svg"
+    },
+    "git": {
+      "iconPath": "./icons/git_dark.svg"
+    },
+    "git_light": {
+      "iconPath": "./icons/git_light.svg"
+    },
+    "gleam": {
+      "iconPath": "./icons/gleam_dark.svg"
+    },
+    "gleam_light": {
+      "iconPath": "./icons/gleam_light.svg"
+    },
+    "go": {
+      "iconPath": "./icons/go_dark.svg"
+    },
+    "go_light": {
+      "iconPath": "./icons/go_light.svg"
+    },
+    "graphql": {
+      "iconPath": "./icons/graphql_dark.svg"
+    },
+    "graphql_light": {
+      "iconPath": "./icons/graphql_light.svg"
+    },
+    "haskell": {
+      "iconPath": "./icons/haskell_dark.svg"
+    },
+    "haskell_light": {
+      "iconPath": "./icons/haskell_light.svg"
+    },
+    "hcl": {
+      "iconPath": "./icons/hcl_dark.svg"
+    },
+    "hcl_light": {
+      "iconPath": "./icons/hcl_light.svg"
+    },
+    "heroku": {
+      "iconPath": "./icons/heroku_dark.svg"
+    },
+    "heroku_light": {
+      "iconPath": "./icons/heroku_light.svg"
+    },
+    "html": {
+      "iconPath": "./icons/html_dark.svg"
+    },
+    "html_light": {
+      "iconPath": "./icons/html_light.svg"
+    },
+    "image": {
+      "iconPath": "./icons/image.svg"
+    },
+    "info": {
+      "iconPath": "./icons/info.svg"
+    },
+    "java": {
+      "iconPath": "./icons/java_dark.svg"
+    },
+    "java_light": {
+      "iconPath": "./icons/java_light.svg"
+    },
+    "javascript": {
+      "iconPath": "./icons/javascript_dark.svg"
+    },
+    "javascript_light": {
+      "iconPath": "./icons/javascript_light.svg"
+    },
+    "julia": {
+      "iconPath": "./icons/julia_dark.svg"
+    },
+    "julia_light": {
+      "iconPath": "./icons/julia_light.svg"
+    },
+    "jupyter": {
+      "iconPath": "./icons/jupyter.svg"
+    },
+    "kotlin": {
+      "iconPath": "./icons/kotlin_dark.svg"
+    },
+    "kotlin_light": {
+      "iconPath": "./icons/kotlin_light.svg"
+    },
+    "lock": {
+      "iconPath": "./icons/lock_dark.svg"
+    },
+    "lock_light": {
+      "iconPath": "./icons/lock_light.svg"
+    },
+    "lua": {
+      "iconPath": "./icons/lua_dark.svg"
+    },
+    "lua_light": {
+      "iconPath": "./icons/lua_light.svg"
+    },
+    "nim": {
+      "iconPath": "./icons/nim_dark.svg"
+    },
+    "nim_light": {
+      "iconPath": "./icons/nim_light.svg"
+    },
+    "nix": {
+      "iconPath": "./icons/nix_dark.svg"
+    },
+    "nix_light": {
+      "iconPath": "./icons/nix_light.svg"
+    },
+    "ocaml": {
+      "iconPath": "./icons/ocaml_dark.svg"
+    },
+    "ocaml_light": {
+      "iconPath": "./icons/ocaml_light.svg"
+    },
+    "odin": {
+      "iconPath": "./icons/odin_dark.svg"
+    },
+    "odin_light": {
+      "iconPath": "./icons/odin_light.svg"
+    },
+    "package": {
+      "iconPath": "./icons/package_dark.svg"
+    },
+    "package_light": {
+      "iconPath": "./icons/package_light.svg"
+    },
+    "phoenix": {
+      "iconPath": "./icons/phoenix_dark.svg"
+    },
+    "phoenix_light": {
+      "iconPath": "./icons/phoenix_light.svg"
+    },
+    "php": {
+      "iconPath": "./icons/php_dark.svg"
+    },
+    "php_light": {
+      "iconPath": "./icons/php_light.svg"
+    },
+    "prettier": {
+      "iconPath": "./icons/prettier_dark.svg"
+    },
+    "prettier_light": {
+      "iconPath": "./icons/prettier_light.svg"
+    },
+    "prisma": {
+      "iconPath": "./icons/prisma_dark.svg"
+    },
+    "prisma_light": {
+      "iconPath": "./icons/prisma_light.svg"
+    },
+    "python": {
+      "iconPath": "./icons/python_dark.svg"
+    },
+    "python_light": {
+      "iconPath": "./icons/python_light.svg"
+    },
+    "r": {
+      "iconPath": "./icons/r_dark.svg"
+    },
+    "r_light": {
+      "iconPath": "./icons/r_light.svg"
+    },
+    "react": {
+      "iconPath": "./icons/react_dark.svg"
+    },
+    "react_light": {
+      "iconPath": "./icons/react_light.svg"
+    },
+    "roc": {
+      "iconPath": "./icons/roc_dark.svg"
+    },
+    "roc_light": {
+      "iconPath": "./icons/roc_light.svg"
+    },
+    "ruby": {
+      "iconPath": "./icons/ruby_dark.svg"
+    },
+    "ruby_light": {
+      "iconPath": "./icons/ruby_light.svg"
+    },
+    "rust": {
+      "iconPath": "./icons/rust_dark.svg"
+    },
+    "rust_light": {
+      "iconPath": "./icons/rust_light.svg"
+    },
+    "sass": {
+      "iconPath": "./icons/sass_dark.svg"
+    },
+    "sass_light": {
+      "iconPath": "./icons/sass_light.svg"
+    },
+    "scala": {
+      "iconPath": "./icons/scala_dark.svg"
+    },
+    "scala_light": {
+      "iconPath": "./icons/scala_light.svg"
+    },
+    "settings": {
+      "iconPath": "./icons/settings_dark.svg"
+    },
+    "settings_light": {
+      "iconPath": "./icons/settings_light.svg"
+    },
+    "swift": {
+      "iconPath": "./icons/swift_dark.svg"
+    },
+    "swift_light": {
+      "iconPath": "./icons/swift_light.svg"
+    },
+    "tcl": {
+      "iconPath": "./icons/tcl_dark.svg"
+    },
+    "tcl_light": {
+      "iconPath": "./icons/tcl_light.svg"
+    },
+    "terminal": {
+      "iconPath": "./icons/terminal_dark.svg"
+    },
+    "terminal_light": {
+      "iconPath": "./icons/terminal_light.svg"
+    },
+    "terraform": {
+      "iconPath": "./icons/terraform_dark.svg"
+    },
+    "terraform_light": {
+      "iconPath": "./icons/terraform_light.svg"
+    },
+    "toml": {
+      "iconPath": "./icons/toml_dark.svg"
+    },
+    "toml_light": {
+      "iconPath": "./icons/toml_light.svg"
+    },
+    "typescript": {
+      "iconPath": "./icons/typescript_dark.svg"
+    },
+    "typescript_light": {
+      "iconPath": "./icons/typescript_light.svg"
+    },
+    "v": {
+      "iconPath": "./icons/v_dark.svg"
+    },
+    "v_light": {
+      "iconPath": "./icons/v_light.svg"
+    },
+    "video": {
+      "iconPath": "./icons/video.svg"
+    },
+    "vue": {
+      "iconPath": "./icons/vue_dark.svg"
+    },
+    "vue_light": {
+      "iconPath": "./icons/vue_light.svg"
+    },
+    "zig": {
+      "iconPath": "./icons/zig_dark.svg"
+    },
+    "zig_light": {
+      "iconPath": "./icons/zig_light.svg"
+    }
+  },
+  "file": "file",
+  "folder": "folder",
+  "folderExpanded": "folder_open",
+  "rootFolder": "folder",
+  "rootFolderExpanded": "folder_open",
+  "fileExtensions": {
+    "7z": "archive",
+    "aac": "audio",
+    "accdb": "database",
+    "adoc": "book",
+    "app.src": "erlang",
+    "asc": "actionscript",
+    "asm": "code",
+    "astro": "astro",
+    "avi": "video",
+    "avif": "image",
+    "bak": "archive",
+    "bash": "terminal",
+    "bash_aliases": "terminal",
+    "bash_logout": "terminal",
+    "bash_profile": "terminal",
+    "bashrc": "terminal",
+    "bat": "terminal",
+    "bmp": "image",
+    "bz2": "archive",
+    "c": "c",
+    "cc": "cpp",
+    "cfg": "settings",
+    "cjs": "javascript",
+    "class": "java",
+    "cmd": "terminal",
+    "coffee": "coffeescript",
+    "conf": "settings",
+    "config": "settings",
+    "cpp": "cpp",
+    "css": "css",
+    "csv": "database",
+    "cts": "typescript",
+    "cxx": "cpp",
+    "dart": "dart",
+    "dat": "database",
+    "db": "database",
+    "db3": "database",
+    "dbf": "database",
+    "diff": "diff",
+    "dll": "database",
+    "doc": "book",
+    "dockerfile": "docker",
+    "dockerignore": "docker",
+    "docx": "book",
+    "eex": "elixir",
+    "elm": "elm",
+    "emakefile": "erlang",
+    "env": "settings",
+    "erl": "erlang",
+    "escript": "erlang",
+    "eslintrc": "eslint",
+    "eslintrc.js": "eslint",
+    "eslintrc.json": "eslint",
+    "ex": "elixir",
+    "exs": "elixir",
+    "fish": "terminal",
+    "flac": "audio",
+    "fmp": "database",
+    "fp7": "database",
+    "frm": "database",
+    "fs": "fsharp",
+    "gdb": "database",
+    "geojson": "code",
+    "gif": "image",
+    "gitattributes": "git",
+    "gitignore": "git",
+    "gitkeep": "git",
+    "gitmodules": "git",
+    "gleam": "gleam",
+    "go": "go",
+    "gql": "graphql",
+    "graphql": "graphql",
+    "graphqls": "graphql",
+    "gz": "archive",
+    "h": "c",
+    "handlebars": "code",
+    "hbs": "html",
+    "hcl": "hcl",
+    "heex": "elixir",
+    "heic": "image",
+    "heif": "image",
+    "hh": "cpp",
+    "hjson": "code",
+    "hpp": "cpp",
+    "hrl": "erlang",
+    "hs": "haskell",
+    "htm": "html",
+    "html": "html",
+    "hxx": "cpp",
+    "ib": "database",
+    "ico": "image",
+    "ini": "settings",
+    "inl": "cpp",
+    "ipynb": "jupyter",
+    "j2k": "image",
+    "jar": "archive",
+    "java": "java",
+    "jfif": "image",
+    "jl": "julia",
+    "jp2": "image",
+    "jpeg": "image",
+    "jpg": "image",
+    "js": "javascript",
+    "json": "database",
+    "json5": "code",
+    "jsonc": "database",
+    "jsonl": "code",
+    "jsx": "react",
+    "jxl": "image",
+    "kt": "kotlin",
+    "kts": "kotlin",
+    "ldf": "database",
+    "leex": "phoenix",
+    "less": "sass",
+    "lock": "lock",
+    "lockb": "bun",
+    "log": "info",
+    "lua": "lua",
+    "luau": "lua",
+    "m4a": "audio",
+    "m4v": "video",
+    "markdown": "book",
+    "md": "book",
+    "mdb": "database",
+    "mdf": "database",
+    "mdx": "book",
+    "metadata": "code",
+    "mjs": "javascript",
+    "mka": "audio",
+    "mkv": "video",
+    "ml": "ocaml",
+    "mli": "ocaml",
+    "mov": "video",
+    "mp3": "audio",
+    "mp4": "video",
+    "mts": "typescript",
+    "myd": "database",
+    "myi": "database",
+    "nim": "nim",
+    "nimble": "nim",
+    "nix": "nix",
+    "nu": "terminal",
+    "odin": "odin",
+    "odp": "book",
+    "ods": "book",
+    "odt": "book",
+    "ogg": "audio",
+    "opus": "audio",
+    "otf": "font",
+    "pdb": "database",
+    "pdf": "book",
+    "php": "php",
+    "plist": "html",
+    "png": "image",
+    "ppt": "book",
+    "pptx": "book",
+    "prettierignore": "prettier",
+    "prettierrc": "prettier",
+    "prisma": "prisma",
+    "profile": "terminal",
+    "ps1": "terminal",
+    "psd": "image",
+    "psql": "database",
+    "py": "python",
+    "qoi": "image",
+    "r": "r",
+    "rar": "archive",
+    "rb": "ruby",
+    "rebar.config": "erlang",
+    "rkt": "code",
+    "roc": "roc",
+    "rs": "rust",
+    "rst": "book",
+    "rtf": "book",
+    "s": "code",
+    "sass": "sass",
+    "sav": "database",
+    "sc": "scala",
+    "scala": "scala",
+    "scm": "code",
+    "scss": "sass",
+    "sdf": "database",
+    "sh": "terminal",
+    "sql": "database",
+    "sqlite": "database",
+    "sqlite3": "database",
+    "svelte": "html",
+    "svg": "image",
+    "swift": "swift",
+    "tar": "archive",
+    "tcl": "tcl",
+    "tf": "terraform",
+    "tfbackend": "terraform",
+    "tfstate": "terraform",
+    "tfvars": "terraform",
+    "tgz": "archive",
+    "tif": "image",
+    "tiff": "image",
+    "toml": "toml",
+    "ts": "typescript",
+    "tsv": "database",
+    "tsx": "react",
+    "ttf": "font",
+    "txt": "book",
+    "v": "v",
+    "vue": "vue",
+    "wav": "audio",
+    "webm": "video",
+    "webp": "image",
+    "wma": "audio",
+    "wmv": "video",
+    "woff": "font",
+    "woff2": "font",
+    "wv": "audio",
+    "xhtml": "html",
+    "xls": "book",
+    "xlsx": "book",
+    "xml": "html",
+    "xrl": "erlang",
+    "xz": "archive",
+    "yaml": "settings",
+    "yml": "settings",
+    "yrl": "erlang",
+    "zig": "zig",
+    "zlogin": "terminal",
+    "zon": "zig",
+    "zsh": "terminal",
+    "zsh_aliases": "terminal",
+    "zsh_histfile": "terminal",
+    "zsh_profile": "terminal",
+    "zshenv": "terminal",
+    "zshrc": "terminal",
+    "zst": "archive"
+  },
+  "fileNames": {
+    ".dockerignore": "docker",
+    ".eslintignore": "eslint",
+    ".eslintrc": "eslint",
+    ".eslintrc.cjs": "eslint",
+    ".eslintrc.js": "eslint",
+    ".eslintrc.json": "eslint",
+    ".eslintrc.yaml": "eslint",
+    ".eslintrc.yml": "eslint",
+    ".gitattributes": "git",
+    ".gitignore": "git",
+    ".gitkeep": "git",
+    ".gitmodules": "git",
+    ".prettierignore": "prettier",
+    ".prettierrc": "prettier",
+    ".prettierrc.cjs": "prettier",
+    ".prettierrc.js": "prettier",
+    ".prettierrc.json": "prettier",
+    ".prettierrc.yaml": "prettier",
+    ".prettierrc.yml": "prettier",
+    "CHANGELOG.md": "book",
+    "Cargo.lock": "lock",
+    "Cargo.toml": "rust",
+    "Dockerfile": "docker",
+    "Gemfile": "ruby",
+    "Gemfile.lock": "lock",
+    "Justfile": "terminal",
+    "LICENSE": "book",
+    "LICENSE.md": "book",
+    "Makefile": "terminal",
+    "Podfile": "ruby",
+    "Procfile": "heroku",
+    "README": "book",
+    "README.md": "book",
+    "README.txt": "book",
+    "Vagrantfile": "code",
+    "bun.lock": "bun",
+    "bun.lockb": "bun",
+    "composer.json": "php",
+    "docker-compose.yaml": "docker",
+    "docker-compose.yml": "docker",
+    "eslint.config.cjs": "eslint",
+    "eslint.config.js": "eslint",
+    "eslint.config.mjs": "eslint",
+    "eslint.config.ts": "eslint",
+    "jsconfig.json": "javascript",
+    "mix.exs": "elixir",
+    "npm-shrinkwrap.json": "package",
+    "package-lock.json": "package",
+    "package.json": "package",
+    "pnpm-lock.yaml": "package",
+    "rebar.config": "erlang",
+    "tsconfig.json": "typescript",
+    "yarn.lock": "package"
+  },
+  "languageIds": {
+    "astro": "astro",
+    "dockercompose": "docker",
+    "elixir": "elixir",
+    "erlang": "erlang",
+    "gleam": "gleam",
+    "go": "go",
+    "graphql": "graphql",
+    "haskell": "haskell",
+    "java": "java",
+    "javascript": "javascript",
+    "javascriptreact": "react",
+    "kotlin": "kotlin",
+    "nix": "nix",
+    "ocaml": "ocaml",
+    "odin": "odin",
+    "php": "php",
+    "python": "python",
+    "ruby": "ruby",
+    "rust": "rust",
+    "scala": "scala",
+    "svelte": "svelte",
+    "swift": "swift",
+    "terraform": "terraform",
+    "toml": "toml",
+    "typescript": "typescript",
+    "typescriptreact": "react",
+    "vue": "vue",
+    "zig": "zig"
+  },
+  "hidesExplorerArrows": true,
+  "light": {
+    "fileExtensions": {
+      "7z": "archive_light",
+      "accdb": "database_light",
+      "adoc": "book_light",
+      "app.src": "erlang_light",
+      "asc": "actionscript_light",
+      "asm": "code_light",
+      "astro": "astro_light",
+      "bak": "archive_light",
+      "bash": "terminal_light",
+      "bash_aliases": "terminal_light",
+      "bash_logout": "terminal_light",
+      "bash_profile": "terminal_light",
+      "bashrc": "terminal_light",
+      "bat": "terminal_light",
+      "bz2": "archive_light",
+      "c": "c_light",
+      "cc": "cpp_light",
+      "cfg": "settings_light",
+      "cjs": "javascript_light",
+      "class": "java_light",
+      "cmd": "terminal_light",
+      "coffee": "coffeescript_light",
+      "conf": "settings_light",
+      "config": "settings_light",
+      "cpp": "cpp_light",
+      "css": "css_light",
+      "csv": "database_light",
+      "cts": "typescript_light",
+      "cxx": "cpp_light",
+      "dart": "dart_light",
+      "dat": "database_light",
+      "db": "database_light",
+      "db3": "database_light",
+      "dbf": "database_light",
+      "diff": "diff_light",
+      "dll": "database_light",
+      "doc": "book_light",
+      "dockerfile": "docker_light",
+      "dockerignore": "docker_light",
+      "docx": "book_light",
+      "eex": "elixir_light",
+      "elm": "elm_light",
+      "emakefile": "erlang_light",
+      "env": "settings_light",
+      "erl": "erlang_light",
+      "escript": "erlang_light",
+      "eslintrc": "eslint_light",
+      "eslintrc.js": "eslint_light",
+      "eslintrc.json": "eslint_light",
+      "ex": "elixir_light",
+      "exs": "elixir_light",
+      "fish": "terminal_light",
+      "fmp": "database_light",
+      "fp7": "database_light",
+      "frm": "database_light",
+      "fs": "fsharp_light",
+      "gdb": "database_light",
+      "geojson": "code_light",
+      "gitattributes": "git_light",
+      "gitignore": "git_light",
+      "gitkeep": "git_light",
+      "gitmodules": "git_light",
+      "gleam": "gleam_light",
+      "go": "go_light",
+      "gql": "graphql_light",
+      "graphql": "graphql_light",
+      "graphqls": "graphql_light",
+      "gz": "archive_light",
+      "h": "c_light",
+      "handlebars": "code_light",
+      "hbs": "html_light",
+      "hcl": "hcl_light",
+      "heex": "elixir_light",
+      "hh": "cpp_light",
+      "hjson": "code_light",
+      "hpp": "cpp_light",
+      "hrl": "erlang_light",
+      "hs": "haskell_light",
+      "htm": "html_light",
+      "html": "html_light",
+      "hxx": "cpp_light",
+      "ib": "database_light",
+      "ini": "settings_light",
+      "inl": "cpp_light",
+      "jar": "archive_light",
+      "java": "java_light",
+      "jl": "julia_light",
+      "js": "javascript_light",
+      "json": "database_light",
+      "json5": "code_light",
+      "jsonc": "database_light",
+      "jsonl": "code_light",
+      "jsx": "react_light",
+      "kt": "kotlin_light",
+      "kts": "kotlin_light",
+      "ldf": "database_light",
+      "leex": "phoenix_light",
+      "less": "sass_light",
+      "lock": "lock_light",
+      "lockb": "bun_light",
+      "lua": "lua_light",
+      "luau": "lua_light",
+      "markdown": "book_light",
+      "md": "book_light",
+      "mdb": "database_light",
+      "mdf": "database_light",
+      "mdx": "book_light",
+      "metadata": "code_light",
+      "mjs": "javascript_light",
+      "ml": "ocaml_light",
+      "mli": "ocaml_light",
+      "mts": "typescript_light",
+      "myd": "database_light",
+      "myi": "database_light",
+      "nim": "nim_light",
+      "nimble": "nim_light",
+      "nix": "nix_light",
+      "nu": "terminal_light",
+      "odin": "odin_light",
+      "odp": "book_light",
+      "ods": "book_light",
+      "odt": "book_light",
+      "otf": "font_light",
+      "pdb": "database_light",
+      "pdf": "book_light",
+      "php": "php_light",
+      "plist": "html_light",
+      "ppt": "book_light",
+      "pptx": "book_light",
+      "prettierignore": "prettier_light",
+      "prettierrc": "prettier_light",
+      "prisma": "prisma_light",
+      "profile": "terminal_light",
+      "ps1": "terminal_light",
+      "psql": "database_light",
+      "py": "python_light",
+      "r": "r_light",
+      "rar": "archive_light",
+      "rb": "ruby_light",
+      "rebar.config": "erlang_light",
+      "rkt": "code_light",
+      "roc": "roc_light",
+      "rs": "rust_light",
+      "rst": "book_light",
+      "rtf": "book_light",
+      "s": "code_light",
+      "sass": "sass_light",
+      "sav": "database_light",
+      "sc": "scala_light",
+      "scala": "scala_light",
+      "scm": "code_light",
+      "scss": "sass_light",
+      "sdf": "database_light",
+      "sh": "terminal_light",
+      "sql": "database_light",
+      "sqlite": "database_light",
+      "sqlite3": "database_light",
+      "svelte": "html_light",
+      "swift": "swift_light",
+      "tar": "archive_light",
+      "tcl": "tcl_light",
+      "tf": "terraform_light",
+      "tfbackend": "terraform_light",
+      "tfstate": "terraform_light",
+      "tfvars": "terraform_light",
+      "tgz": "archive_light",
+      "toml": "toml_light",
+      "ts": "typescript_light",
+      "tsv": "database_light",
+      "tsx": "react_light",
+      "ttf": "font_light",
+      "txt": "book_light",
+      "v": "v_light",
+      "vue": "vue_light",
+      "woff": "font_light",
+      "woff2": "font_light",
+      "xhtml": "html_light",
+      "xls": "book_light",
+      "xlsx": "book_light",
+      "xml": "html_light",
+      "xrl": "erlang_light",
+      "xz": "archive_light",
+      "yaml": "settings_light",
+      "yml": "settings_light",
+      "yrl": "erlang_light",
+      "zig": "zig_light",
+      "zlogin": "terminal_light",
+      "zon": "zig_light",
+      "zsh": "terminal_light",
+      "zsh_aliases": "terminal_light",
+      "zsh_histfile": "terminal_light",
+      "zsh_profile": "terminal_light",
+      "zshenv": "terminal_light",
+      "zshrc": "terminal_light",
+      "zst": "archive_light"
+    },
+    "fileNames": {
+      ".dockerignore": "docker_light",
+      ".eslintignore": "eslint_light",
+      ".eslintrc": "eslint_light",
+      ".eslintrc.cjs": "eslint_light",
+      ".eslintrc.js": "eslint_light",
+      ".eslintrc.json": "eslint_light",
+      ".eslintrc.yaml": "eslint_light",
+      ".eslintrc.yml": "eslint_light",
+      ".gitattributes": "git_light",
+      ".gitignore": "git_light",
+      ".gitkeep": "git_light",
+      ".gitmodules": "git_light",
+      ".prettierignore": "prettier_light",
+      ".prettierrc": "prettier_light",
+      ".prettierrc.cjs": "prettier_light",
+      ".prettierrc.js": "prettier_light",
+      ".prettierrc.json": "prettier_light",
+      ".prettierrc.yaml": "prettier_light",
+      ".prettierrc.yml": "prettier_light",
+      "CHANGELOG.md": "book_light",
+      "Cargo.lock": "lock_light",
+      "Cargo.toml": "rust_light",
+      "Dockerfile": "docker_light",
+      "Gemfile": "ruby_light",
+      "Gemfile.lock": "lock_light",
+      "Justfile": "terminal_light",
+      "LICENSE": "book_light",
+      "LICENSE.md": "book_light",
+      "Makefile": "terminal_light",
+      "Podfile": "ruby_light",
+      "Procfile": "heroku_light",
+      "README": "book_light",
+      "README.md": "book_light",
+      "README.txt": "book_light",
+      "Vagrantfile": "code_light",
+      "bun.lock": "bun_light",
+      "bun.lockb": "bun_light",
+      "composer.json": "php_light",
+      "docker-compose.yaml": "docker_light",
+      "docker-compose.yml": "docker_light",
+      "eslint.config.cjs": "eslint_light",
+      "eslint.config.js": "eslint_light",
+      "eslint.config.mjs": "eslint_light",
+      "eslint.config.ts": "eslint_light",
+      "jsconfig.json": "javascript_light",
+      "mix.exs": "elixir_light",
+      "npm-shrinkwrap.json": "package_light",
+      "package-lock.json": "package_light",
+      "package.json": "package_light",
+      "pnpm-lock.yaml": "package_light",
+      "rebar.config": "erlang_light",
+      "tsconfig.json": "typescript_light",
+      "yarn.lock": "package_light"
+    }
+  }
+}
